@@ -1,0 +1,1399 @@
+Performance Statistics   2020-05-03 00:00:00 - 2020-05-03 00:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1250.0        1250        1250         0.0           1
+commonLookup#afterShow                                   0.0           0           0         0.0           1
+commonLookup#beforeShow                                  1.0           1           1         0.0           1
+commonLookup#create                                      8.0           8           8         0.0           1
+commonLookup#init                                      178.0         178         178         0.0           1
+commonLookup#inject                                     18.0          18          18         0.0           1
+commonLookup#load                                        3.0           3           3         0.0           1
+commonLookup#uiPermissions                               0.0           0           0         0.0           1
+commonLookup#xml                                         2.0           0           4         2.0           2
+commonLookup.lookupWindowActions#init                    0.0           0           0         0.0           1
+commonLookup@entitiesDs                                 26.0          26          26         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            97.5           5         190        92.5           2
+login#init                                              11.0           1          21        10.0           2
+login#inject                                            27.5           0          55        27.5           2
+login#load                                             398.5          39         758       359.5           2
+login#uiPermissions                                      0.5           0           1         0.5           2
+login#xml                                                9.0           0          18         9.0           2
+lookupWindowActions#create                              19.0          11          27         8.0           2
+lookupWindowActions#inject                               9.5           6          13         3.5           2
+lookupWindowActions#load                                10.5           9          12         1.5           2
+lookupWindowActions#xml                                  0.5           0           2         0.9           4
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             28.0          28          28         0.0           1
+main#init                                               23.0          23          23         0.0           1
+main#inject                                             12.0          12          12         0.0           1
+main#load                                              298.0         298         298         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 4.0           4           4         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            11.0          11          11         0.0           1
+report$Report.run#create                                40.0          40          40         0.0           1
+report$Report.run#init                                 439.0         439         439         0.0           1
+report$Report.run#inject                                47.0          47          47         0.0           1
+report$Report.run#load                                 328.0         328         328         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    1.5           1           2         0.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       345.0         345         345         0.0           1
+report$inputParameters#afterShow                         0.0           0           0         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                            7.0           7           7         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           13.0          13          13         0.0           1
+report$inputParameters#load                             51.0          51          51         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               3.0           0           6         3.0           2
+report$inputParameters.inputParametersFrame#init       401.0         401         401         0.0           1
+report$inputParameters.inputParametersFrame#inject        10.0          10          10         0.0           1
+report$inputParameters.inputParametersFrame#load         4.0           4           4         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        53.0          53          53         0.0           1
+report$inputParametersFrame#create                      33.0          33          33         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       97.0          97          97         0.0           1
+teststp_Debitor.browse#create                           28.0          28          28         0.0           1
+teststp_Debitor.browse#init                              4.0           4           4         0.0           1
+teststp_Debitor.browse#inject                            4.0           4           4         0.0           1
+teststp_Debitor.browse#load                            873.0         873         873         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               8.0           8           8         0.0           1
+
+Performance Statistics   2020-05-03 00:02:00 - 2020-05-03 00:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.report$Report.browse                          190.0         138         242        52.0           2
+bandEditor#create                                      173.5         127         220        46.5           2
+bandEditor#xml                                           1.0           0           4         1.7           4
+editWindowActions#create                                11.0          11          11         0.0           1
+editWindowActions#xml                                    0.5           0           1         0.5           2
+formatsFrame#create                                     19.5          17          22         2.5           2
+formatsFrame#xml                                         0.5           0           2         0.9           4
+generalFrame#create                                    387.5         177         598       210.5           2
+generalFrame#xml                                         0.8           0           3         1.3           4
+localesFrame#create                                     13.0          12          14         1.0           2
+localesFrame#xml                                         0.5           0           2         0.9           4
+lookupWindowActions#create                               6.0           6           6         0.0           2
+lookupWindowActions#inject                               0.0           0           0         0.0           2
+lookupWindowActions#load                                 6.0           5           7         1.0           2
+lookupWindowActions#xml                                  0.0           0           0         0.0           4
+parametersFrame#create                                  40.0          34          46         6.0           2
+parametersFrame#xml                                      0.5           0           2         0.9           4
+report$ChartEdit#create                                 39.0          39          39         0.0           1
+report$ChartEdit#xml                                     1.0           0           2         1.0           2
+report$PivotTableEdit#create                            75.0          75          75         0.0           1
+report$PivotTableEdit#xml                                1.0           0           2         1.0           2
+report$Report.browse#afterShow                           0.0           0           0         0.0           2
+report$Report.browse#beforeShow                          0.0           0           0         0.0           2
+report$Report.browse#create                              7.0           6           8         1.0           2
+report$Report.browse#init                                6.5           1          12         5.5           2
+report$Report.browse#inject                              9.0           0          18         9.0           2
+report$Report.browse#load                               79.5          64          95        15.5           2
+report$Report.browse#uiPermissions                       0.0           0           0         0.0           2
+report$Report.browse#xml                                 0.8           0           2         0.8           4
+report$Report.browse.lookupWindowActions#init            0.0           0           0         0.0           2
+report$Report.browse@reportDs                           21.5          18          25         3.5           2
+report$Report.edit#afterShow                             0.5           0           1         0.5           2
+report$Report.edit#beforeShow                            4.0           0           8         4.0           2
+report$Report.edit#companion                             0.0           0           0         0.0           2
+report$Report.edit#create                                7.0           5           9         2.0           2
+report$Report.edit#init                                373.0          55         691       318.0           2
+report$Report.edit#inject                               14.5           1          28        13.5           2
+report$Report.edit#load                               1884.5        1116        2653       768.5           2
+report$Report.edit#uiPermissions                         0.0           0           0         0.0           2
+report$Report.edit#xml                                   0.6           0           3         1.2          10
+report$Report.edit.formatsFrame#init                     0.0           0           0         0.0           2
+report$Report.edit.formatsFrame#inject                   0.0           0           0         0.0           2
+report$Report.edit.formatsFrame#load                     2.0           1           3         1.0           2
+report$Report.edit.generalFrame#init                     0.0           0           0         0.0           2
+report$Report.edit.generalFrame#inject                   0.0           0           0         0.0           2
+report$Report.edit.generalFrame#load                  1145.0         672        1618       473.0           2
+report$Report.edit.generalFrame.bandEditor#init         10.5           1          20         9.5           2
+report$Report.edit.generalFrame.bandEditor#inject         8.0           1          15         7.0           2
+report$Report.edit.generalFrame.bandEditor#load        550.5         441         660       109.5           2
+report$Report.edit.localesFrame#init                     0.0           0           0         0.0           2
+report$Report.edit.localesFrame#inject                   0.5           0           1         0.5           2
+report$Report.edit.localesFrame#load                    36.0          30          42         6.0           2
+report$Report.edit.parametersFrame#init                  0.0           0           0         0.0           2
+report$Report.edit.parametersFrame#inject                0.0           0           0         0.0           2
+report$Report.edit.parametersFrame#load                 82.5          61         104        21.5           2
+report$Report.edit.securityFrame#init                    0.0           0           0         0.0           2
+report$Report.edit.securityFrame#inject                  0.0           0           0         0.0           2
+report$Report.edit.securityFrame#load                    5.5           3           8         2.5           2
+report$Report.edit.templatesFrame#init                   0.0           0           0         0.0           2
+report$Report.edit.templatesFrame#inject                 0.0           0           0         0.0           2
+report$Report.edit.templatesFrame#load                   3.5           2           5         1.5           2
+report$Report.edit@groupsDs                             75.0          19         131        56.0           2
+report$ReportTemplate.edit#afterShow                    33.0          33          33         0.0           1
+report$ReportTemplate.edit#beforeShow                    9.0           9           9         0.0           1
+report$ReportTemplate.edit#create                        7.0           7           7         0.0           1
+report$ReportTemplate.edit#init                          7.0           7           7         0.0           1
+report$ReportTemplate.edit#inject                       46.0          46          46         0.0           1
+report$ReportTemplate.edit#load                       1579.0        1579        1579         0.0           1
+report$ReportTemplate.edit#uiPermissions                 0.0           0           0         0.0           1
+report$ReportTemplate.edit#xml                           1.2           0           6         2.4           5
+report$ReportTemplate.edit.chartEdit#init               51.0          51          51         0.0           1
+report$ReportTemplate.edit.chartEdit#inject             12.0          12          12         0.0           1
+report$ReportTemplate.edit.chartEdit#load              516.0         516         516         0.0           1
+report$ReportTemplate.edit.pivotTableEdit#init          75.0          75          75         0.0           1
+report$ReportTemplate.edit.pivotTableEdit#inject        20.0          20          20         0.0           1
+report$ReportTemplate.edit.pivotTableEdit#load         369.0         369         369         0.0           1
+report$ReportTemplate.edit.tableEdit#init                8.0           8           8         0.0           1
+report$ReportTemplate.edit.tableEdit#inject             23.0          23          23         0.0           1
+report$ReportTemplate.edit.tableEdit#load                7.0           7           7         0.0           1
+report$ReportTemplate.edit.windowActions#init            0.0           0           0         0.0           1
+report$ReportTemplate.edit.windowActions#inject          0.0           0           0         0.0           1
+report$ReportTemplate.edit.windowActions#load            0.0           0           0         0.0           1
+report$TableEditFrame#create                            32.0          32          32         0.0           1
+report$TableEditFrame#xml                                1.0           0           2         1.0           2
+securityFrame#create                                    52.0          50          54         2.0           2
+securityFrame#xml                                        0.8           0           3         1.3           4
+templatesFrame#create                                   21.0          19          23         2.0           2
+templatesFrame#xml                                       0.5           0           2         0.9           4
+
+Performance Statistics   2020-05-03 00:04:00 - 2020-05-03 00:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                        114.0         114         114         0.0           1
+commonLookup#afterShow                                   0.0           0           0         0.0           1
+commonLookup#beforeShow                                  1.0           1           1         0.0           1
+commonLookup#create                                      7.0           7           7         0.0           1
+commonLookup#init                                       81.0          81          81         0.0           1
+commonLookup#inject                                      0.0           0           0         0.0           1
+commonLookup#load                                        2.0           2           2         0.0           1
+commonLookup#uiPermissions                               0.0           0           0         0.0           1
+commonLookup#xml                                         0.5           0           1         0.5           2
+commonLookup.lookupWindowActions#init                    0.0           0           0         0.0           1
+commonLookup@entitiesDs                                 14.0          14          14         0.0           1
+editWindowActions#create                                11.0          11          11         0.0           1
+editWindowActions#xml                                    0.0           0           0         0.0           2
+lookupWindowActions#create                               7.0           7           7         0.0           2
+lookupWindowActions#inject                               0.0           0           0         0.0           2
+lookupWindowActions#load                                 5.0           5           5         0.0           2
+lookupWindowActions#xml                                  0.0           0           0         0.0           4
+report$ChartEdit#create                                 36.0          36          36         0.0           1
+report$ChartEdit#xml                                     0.0           0           0         0.0           2
+report$PivotTableEdit#create                            60.0          60          60         0.0           1
+report$PivotTableEdit#xml                                0.0           0           0         0.0           2
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                             1.0           1           1         0.0           1
+report$Report.run#create                                 6.0           6           6         0.0           1
+report$Report.run#init                                  54.0          54          54         0.0           1
+report$Report.run#inject                                 0.0           0           0         0.0           1
+report$Report.run#load                                  36.0          36          36         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    1.0           0           2         1.0           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                        11.0          11          11         0.0           1
+report$ReportTemplate.edit#afterShow                     4.0           4           4         0.0           1
+report$ReportTemplate.edit#beforeShow                    0.0           0           0         0.0           1
+report$ReportTemplate.edit#create                        6.0           6           6         0.0           1
+report$ReportTemplate.edit#init                          1.0           1           1         0.0           1
+report$ReportTemplate.edit#inject                        1.0           1           1         0.0           1
+report$ReportTemplate.edit#load                       1074.0        1074        1074         0.0           1
+report$ReportTemplate.edit#uiPermissions                 0.0           0           0         0.0           1
+report$ReportTemplate.edit#xml                           0.6           0           3         1.2           5
+report$ReportTemplate.edit.chartEdit#init                2.0           2           2         0.0           1
+report$ReportTemplate.edit.chartEdit#inject              0.0           0           0         0.0           1
+report$ReportTemplate.edit.chartEdit#load              339.0         339         339         0.0           1
+report$ReportTemplate.edit.pivotTableEdit#init           9.0           9           9         0.0           1
+report$ReportTemplate.edit.pivotTableEdit#inject         0.0           0           0         0.0           1
+report$ReportTemplate.edit.pivotTableEdit#load         343.0         343         343         0.0           1
+report$ReportTemplate.edit.tableEdit#init                0.0           0           0         0.0           1
+report$ReportTemplate.edit.tableEdit#inject              0.0           0           0         0.0           1
+report$ReportTemplate.edit.tableEdit#load                3.0           3           3         0.0           1
+report$ReportTemplate.edit.windowActions#init            0.0           0           0         0.0           1
+report$ReportTemplate.edit.windowActions#inject          0.0           0           0         0.0           1
+report$ReportTemplate.edit.windowActions#load            0.0           0           0         0.0           1
+report$TableEditFrame#create                            29.0          29          29         0.0           1
+report$TableEditFrame#xml                                0.0           0           0         0.0           2
+report$inputParameters#afterShow                         0.0           0           0         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                            7.0           7           7         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                            1.0           1           1         0.0           1
+report$inputParameters#load                             31.0          31          31         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               1.0           0           2         1.0           2
+report$inputParameters.inputParametersFrame#init        63.0          63          63         0.0           1
+report$inputParameters.inputParametersFrame#inject         0.0           0           0         0.0           1
+report$inputParameters.inputParametersFrame#load         0.0           0           0         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        13.0          13          13         0.0           1
+report$inputParametersFrame#create                      22.0          22          22         0.0           1
+report$inputParametersFrame#xml                          0.0           0           0         0.0           2
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       12.0          12          12         0.0           1
+teststp_Debitor.browse#create                            5.0           5           5         0.0           1
+teststp_Debitor.browse#init                              1.0           1           1         0.0           1
+teststp_Debitor.browse#inject                            0.0           0           0         0.0           1
+teststp_Debitor.browse#load                             56.0          56          56         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               1.0           1           1         0.0           1
+
+Performance Statistics   2020-05-03 00:06:00 - 2020-05-03 00:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.report$Report.browse                          126.5         124         129         2.5           2
+MenuItem.teststp_Debitor.browse                        102.0         102         102         0.0           1
+bandEditor#create                                      127.5         125         130         2.5           2
+bandEditor#xml                                           0.0           0           0         0.0           4
+editWindowActions#create                                11.0          11          11         0.0           2
+editWindowActions#xml                                    0.0           0           0         0.0           4
+formatsFrame#create                                     17.0          17          17         0.0           2
+formatsFrame#xml                                         0.0           0           0         0.0           4
+generalFrame#create                                    178.0         173         183         5.0           2
+generalFrame#xml                                         0.0           0           0         0.0           4
+localesFrame#create                                     12.0          12          12         0.0           2
+localesFrame#xml                                         0.0           0           0         0.0           4
+lookupWindowActions#create                               6.0           6           6         0.0           2
+lookupWindowActions#inject                               0.0           0           0         0.0           2
+lookupWindowActions#load                                 4.0           4           4         0.0           2
+lookupWindowActions#xml                                  0.0           0           0         0.0           4
+parametersFrame#create                                  34.0          33          35         1.0           2
+parametersFrame#xml                                      0.0           0           0         0.0           4
+report$ChartEdit#create                                 35.5          35          36         0.5           2
+report$ChartEdit#xml                                     0.0           0           0         0.0           4
+report$PivotTableEdit#create                            59.0          57          61         2.0           2
+report$PivotTableEdit#xml                                0.0           0           0         0.0           4
+report$Report.browse#afterShow                           0.0           0           0         0.0           2
+report$Report.browse#beforeShow                          0.0           0           0         0.0           2
+report$Report.browse#create                              5.5           5           6         0.5           2
+report$Report.browse#init                                1.0           1           1         0.0           2
+report$Report.browse#inject                              0.0           0           0         0.0           2
+report$Report.browse#load                               57.5          56          59         1.5           2
+report$Report.browse#uiPermissions                       0.0           0           0         0.0           2
+report$Report.browse#xml                                 0.8           0           3         1.3           4
+report$Report.browse.lookupWindowActions#init            0.0           0           0         0.0           2
+report$Report.browse@reportDs                           16.0          15          17         1.0           2
+report$Report.edit#afterShow                             0.0           0           0         0.0           2
+report$Report.edit#beforeShow                            0.0           0           0         0.0           2
+report$Report.edit#companion                             0.0           0           0         0.0           2
+report$Report.edit#create                                5.0           5           5         0.0           2
+report$Report.edit#init                                 45.0          44          46         1.0           2
+report$Report.edit#inject                                0.5           0           1         0.5           2
+report$Report.edit#load                                873.0         858         888        15.0           2
+report$Report.edit#uiPermissions                         0.0           0           0         0.0           2
+report$Report.edit#xml                                   0.4           0           3         0.9          10
+report$Report.edit.formatsFrame#init                     0.0           0           0         0.0           2
+report$Report.edit.formatsFrame#inject                   0.0           0           0         0.0           2
+report$Report.edit.formatsFrame#load                     1.0           1           1         0.0           2
+report$Report.edit.generalFrame#init                     0.0           0           0         0.0           2
+report$Report.edit.generalFrame#inject                   0.0           0           0         0.0           2
+report$Report.edit.generalFrame#load                   455.0         451         459         4.0           2
+report$Report.edit.generalFrame.bandEditor#init          0.0           0           0         0.0           2
+report$Report.edit.generalFrame.bandEditor#inject         0.0           0           0         0.0           2
+report$Report.edit.generalFrame.bandEditor#load        279.5         274         285         5.5           2
+report$Report.edit.localesFrame#init                     0.0           0           0         0.0           2
+report$Report.edit.localesFrame#inject                   0.0           0           0         0.0           2
+report$Report.edit.localesFrame#load                    23.5          22          25         1.5           2
+report$Report.edit.parametersFrame#init                  0.0           0           0         0.0           2
+report$Report.edit.parametersFrame#inject                0.0           0           0         0.0           2
+report$Report.edit.parametersFrame#load                 47.0          46          48         1.0           2
+report$Report.edit.securityFrame#init                    0.0           0           0         0.0           2
+report$Report.edit.securityFrame#inject                  0.0           0           0         0.0           2
+report$Report.edit.securityFrame#load                    2.5           2           3         0.5           2
+report$Report.edit.templatesFrame#init                   0.0           0           0         0.0           2
+report$Report.edit.templatesFrame#inject                 0.0           0           0         0.0           2
+report$Report.edit.templatesFrame#load                   1.0           1           1         0.0           2
+report$Report.edit@groupsDs                             13.0          12          14         1.0           2
+report$ReportTemplate.edit#afterShow                     2.5           2           3         0.5           2
+report$ReportTemplate.edit#beforeShow                    0.0           0           0         0.0           2
+report$ReportTemplate.edit#create                        6.5           6           7         0.5           2
+report$ReportTemplate.edit#init                          0.0           0           0         0.0           2
+report$ReportTemplate.edit#inject                        0.0           0           0         0.0           2
+report$ReportTemplate.edit#load                        906.0         898         914         8.0           2
+report$ReportTemplate.edit#uiPermissions                 0.0           0           0         0.0           2
+report$ReportTemplate.edit#xml                           0.3           0           2         0.6          10
+report$ReportTemplate.edit.chartEdit#init                1.5           1           2         0.5           2
+report$ReportTemplate.edit.chartEdit#inject              0.0           0           0         0.0           2
+report$ReportTemplate.edit.chartEdit#load              287.5         280         295         7.5           2
+report$ReportTemplate.edit.pivotTableEdit#init          64.0           8         120        56.0           2
+report$ReportTemplate.edit.pivotTableEdit#inject         0.0           0           0         0.0           2
+report$ReportTemplate.edit.pivotTableEdit#load         217.0         211         223         6.0           2
+report$ReportTemplate.edit.tableEdit#init                0.0           0           0         0.0           2
+report$ReportTemplate.edit.tableEdit#inject              0.0           0           0         0.0           2
+report$ReportTemplate.edit.tableEdit#load                1.5           1           2         0.5           2
+report$ReportTemplate.edit.windowActions#init            0.0           0           0         0.0           2
+report$ReportTemplate.edit.windowActions#inject          0.0           0           0         0.0           2
+report$ReportTemplate.edit.windowActions#load            0.0           0           0         0.0           2
+report$TableEditFrame#create                            29.0          29          29         0.0           2
+report$TableEditFrame#xml                                0.0           0           0         0.0           4
+securityFrame#create                                    46.0          46          46         0.0           2
+securityFrame#xml                                        0.0           0           0         0.0           4
+templatesFrame#create                                   18.5          18          19         0.5           2
+templatesFrame#xml                                       0.0           0           0         0.0           4
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       10.0          10          10         0.0           1
+teststp_Debitor.browse#create                            6.0           6           6         0.0           1
+teststp_Debitor.browse#init                              0.0           0           0         0.0           1
+teststp_Debitor.browse#inject                            0.0           0           0         0.0           1
+teststp_Debitor.browse#load                             57.0          57          57         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               1.0           1           1         0.0           1
+
+Performance Statistics   2020-05-03 00:08:00 - 2020-05-03 00:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 00:10:00 - 2020-05-03 00:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:18:00 - 2020-05-03 16:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           1
+login#beforeShow                                         3.0           3           3         0.0           1
+login#create                                           176.0         176         176         0.0           1
+login#init                                              22.0          22          22         0.0           1
+login#inject                                            49.0          49          49         0.0           1
+login#load                                             775.0         775         775         0.0           1
+login#uiPermissions                                      1.0           1           1         0.0           1
+login#xml                                               13.0          13          13         0.0           1
+main#afterShow                                          15.0          15          15         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             28.0          28          28         0.0           1
+main#init                                               28.0          28          28         0.0           1
+main#inject                                             10.0          10          10         0.0           1
+main#load                                              322.0         322         322         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 4.0           4           4         0.0           1
+
+Performance Statistics   2020-05-03 16:20:00 - 2020-05-03 16:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1247.0        1247        1247         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       95.0          95          95         0.0           1
+teststp_Debitor.browse#create                           27.0          27          27         0.0           1
+teststp_Debitor.browse#init                              4.0           4           4         0.0           1
+teststp_Debitor.browse#inject                            4.0           4           4         0.0           1
+teststp_Debitor.browse#load                            930.0         930         930         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-03 16:22:00 - 2020-05-03 16:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+commonLookup#afterShow                                   0.0           0           0         0.0           1
+commonLookup#beforeShow                                  1.0           1           1         0.0           1
+commonLookup#create                                      6.0           6           6         0.0           1
+commonLookup#init                                      131.0         131         131         0.0           1
+commonLookup#inject                                     16.0          16          16         0.0           1
+commonLookup#load                                        2.0           2           2         0.0           1
+commonLookup#uiPermissions                               0.0           0           0         0.0           1
+commonLookup#xml                                         1.5           0           3         1.5           2
+commonLookup.lookupWindowActions#init                    0.0           0           0         0.0           1
+commonLookup@entitiesDs                                 19.0          19          19         0.0           1
+login#afterShow                                          0.0           0           0         0.0           1
+login#beforeShow                                         0.0           0           0         0.0           1
+login#create                                            11.0          11          11         0.0           1
+login#init                                               0.0           0           0         0.0           1
+login#inject                                             1.0           1           1         0.0           1
+login#load                                              45.0          45          45         0.0           1
+login#uiPermissions                                      0.0           0           0         0.0           1
+login#xml                                                7.0           7           7         0.0           1
+lookupWindowActions#create                              18.0           6          30        12.0           2
+lookupWindowActions#inject                               7.5           0          15         7.5           2
+lookupWindowActions#load                                 9.5           5          14         4.5           2
+lookupWindowActions#xml                                  0.5           0           2         0.9           4
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            15.0          15          15         0.0           1
+report$Report.run#create                               160.0         160         160         0.0           1
+report$Report.run#init                                 535.0         535         535         0.0           1
+report$Report.run#inject                                41.0          41          41         0.0           1
+report$Report.run#load                                 206.0         206         206         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    1.5           0           3         1.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       362.0         362         362         0.0           1
+report$inputParameters#afterShow                         2.0           2           2         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                           89.0          89          89         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           26.0          26          26         0.0           1
+report$inputParameters#load                             84.0          84          84         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               1.5           0           3         1.5           2
+report$inputParameters.inputParametersFrame#init       578.0         578         578         0.0           1
+report$inputParameters.inputParametersFrame#inject        15.0          15          15         0.0           1
+report$inputParameters.inputParametersFrame#load         7.0           7           7         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        38.0          38          38         0.0           1
+report$inputParametersFrame#create                      56.0          56          56         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+
+Performance Statistics   2020-05-03 16:24:00 - 2020-05-03 16:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:26:00 - 2020-05-03 16:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:28:00 - 2020-05-03 16:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:30:00 - 2020-05-03 16:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:32:00 - 2020-05-03 16:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:34:00 - 2020-05-03 16:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:36:00 - 2020-05-03 16:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:38:00 - 2020-05-03 16:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:40:00 - 2020-05-03 16:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:42:00 - 2020-05-03 16:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:44:00 - 2020-05-03 16:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:46:00 - 2020-05-03 16:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:48:00 - 2020-05-03 16:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:50:00 - 2020-05-03 16:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:52:00 - 2020-05-03 16:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:54:00 - 2020-05-03 16:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:56:00 - 2020-05-03 16:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 16:58:00 - 2020-05-03 17:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:00:00 - 2020-05-03 17:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:02:00 - 2020-05-03 17:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:04:00 - 2020-05-03 17:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:06:00 - 2020-05-03 17:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:08:00 - 2020-05-03 17:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:10:00 - 2020-05-03 17:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:12:00 - 2020-05-03 17:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:14:00 - 2020-05-03 17:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:16:00 - 2020-05-03 17:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:18:00 - 2020-05-03 17:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:20:00 - 2020-05-03 17:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:22:00 - 2020-05-03 17:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:24:00 - 2020-05-03 17:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:26:00 - 2020-05-03 17:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:28:00 - 2020-05-03 17:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:30:00 - 2020-05-03 17:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:32:00 - 2020-05-03 17:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:34:00 - 2020-05-03 17:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:40:00 - 2020-05-03 17:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            85.5           6         165        79.5           2
+login#init                                              13.5           0          27        13.5           2
+login#inject                                            27.0           0          54        27.0           2
+login#load                                             371.0          44         698       327.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                6.5           0          13         6.5           2
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             41.0          41          41         0.0           1
+main#init                                               24.0          24          24         0.0           1
+main#inject                                             11.0          11          11         0.0           1
+main#load                                              312.0         312         312         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+teststp_Debitor.browse#create                           26.0          26          26         0.0           1
+teststp_Debitor.browse#init                              4.0           4           4         0.0           1
+teststp_Debitor.browse#inject                            6.0           6           6         0.0           1
+teststp_Debitor.browse#load                            892.0         892         892         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-03 17:44:00 - 2020-05-03 17:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            90.5           6         175        84.5           2
+login#init                                              12.5           0          25        12.5           2
+login#inject                                            29.5           0          59        29.5           2
+login#load                                             397.5          45         750       352.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                               10.0           0          20        10.0           2
+
+Performance Statistics   2020-05-03 17:46:00 - 2020-05-03 17:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1310.0        1310        1310         0.0           1
+lookupWindowActions#create                              29.0          29          29         0.0           1
+lookupWindowActions#inject                              12.0          12          12         0.0           1
+lookupWindowActions#load                                12.0          12          12         0.0           1
+lookupWindowActions#xml                                  1.5           0           3         1.5           2
+main#afterShow                                          11.0          11          11         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             37.0          37          37         0.0           1
+main#init                                               35.0          35          35         0.0           1
+main#inject                                             14.0          14          14         0.0           1
+main#load                                              348.0         348         348         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 6.0           6           6         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            27.0          27          27         0.0           1
+report$Report.run#create                                48.0          48          48         0.0           1
+report$Report.run#init                                 640.0         640         640         0.0           1
+report$Report.run#inject                                39.0          39          39         0.0           1
+report$Report.run#load                                 224.0         224         224         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    1.5           0           3         1.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       449.0         449         449         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       71.0          71          71         0.0           1
+teststp_Debitor.browse#create                           27.0          27          27         0.0           1
+teststp_Debitor.browse#init                              4.0           4           4         0.0           1
+teststp_Debitor.browse#inject                            6.0           6           6         0.0           1
+teststp_Debitor.browse#load                           1011.0        1011        1011         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                              10.0          10          10         0.0           1
+
+Performance Statistics   2020-05-03 17:48:00 - 2020-05-03 17:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:50:00 - 2020-05-03 17:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:52:00 - 2020-05-03 17:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:54:00 - 2020-05-03 17:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:56:00 - 2020-05-03 17:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 17:58:00 - 2020-05-03 18:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:00:00 - 2020-05-03 18:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:02:00 - 2020-05-03 18:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:04:00 - 2020-05-03 18:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:06:00 - 2020-05-03 18:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:08:00 - 2020-05-03 18:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:10:00 - 2020-05-03 18:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:12:00 - 2020-05-03 18:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:20:00 - 2020-05-03 18:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                      19932.0       19932       19932         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            82.5           5         160        77.5           2
+login#init                                              14.5           1          28        13.5           2
+login#inject                                            30.5           0          61        30.5           2
+login#load                                             369.0          39         699       330.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                5.5           0          11         5.5           2
+lookupWindowActions#create                              25.0          25          25         0.0           1
+lookupWindowActions#inject                              11.0          11          11         0.0           1
+lookupWindowActions#load                                12.0          12          12         0.0           1
+lookupWindowActions#xml                                  1.0           0           2         1.0           2
+main#afterShow                                          13.0          13          13         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             40.0          40          40         0.0           1
+main#init                                               30.0          30          30         0.0           1
+main#inject                                             12.0          12          12         0.0           1
+main#load                                              325.0         325         325         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            14.0          14          14         0.0           1
+report$Report.run#create                                55.0          55          55         0.0           1
+report$Report.run#init                                 489.0         489         489         0.0           1
+report$Report.run#inject                                44.0          44          44         0.0           1
+report$Report.run#load                                 382.0         382         382         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    2.0           0           4         2.0           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       348.0         348         348         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       82.0          82          82         0.0           1
+teststp_Debitor.browse#create                           23.0          23          23         0.0           1
+teststp_Debitor.browse#init                           1141.0        1141        1141         0.0           1
+teststp_Debitor.browse#inject                            7.0           7           7         0.0           1
+teststp_Debitor.browse#load                          18483.0       18483       18483         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-03 18:22:00 - 2020-05-03 18:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+commonLookup#afterShow                                   0.0           0           0         0.0           1
+commonLookup#beforeShow                                  1.0           1           1         0.0           1
+commonLookup#create                                      6.0           6           6         0.0           1
+commonLookup#init                                      132.0         132         132         0.0           1
+commonLookup#inject                                     19.0          19          19         0.0           1
+commonLookup#load                                        3.0           3           3         0.0           1
+commonLookup#uiPermissions                               0.0           0           0         0.0           1
+commonLookup#xml                                         1.0           0           2         1.0           2
+commonLookup.lookupWindowActions#init                    0.0           0           0         0.0           1
+commonLookup@entitiesDs                                 18.0          18          18         0.0           1
+lookupWindowActions#create                               9.0           9           9         0.0           1
+lookupWindowActions#inject                               0.0           0           0         0.0           1
+lookupWindowActions#load                                10.0          10          10         0.0           1
+lookupWindowActions#xml                                  0.0           0           0         0.0           2
+report$inputParameters#afterShow                         1.0           1           1         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                           86.0          86          86         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           16.0          16          16         0.0           1
+report$inputParameters#load                             55.0          55          55         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               1.0           0           2         1.0           2
+report$inputParameters.inputParametersFrame#init       535.0         535         535         0.0           1
+report$inputParameters.inputParametersFrame#inject        10.0          10          10         0.0           1
+report$inputParameters.inputParametersFrame#load         6.0           6           6         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        32.0          32          32         0.0           1
+report$inputParametersFrame#create                      30.0          30          30         0.0           1
+report$inputParametersFrame#xml                          2.0           0           4         2.0           2
+
+Performance Statistics   2020-05-03 18:24:00 - 2020-05-03 18:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:26:00 - 2020-05-03 18:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:28:00 - 2020-05-03 18:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:30:00 - 2020-05-03 18:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:32:00 - 2020-05-03 18:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:34:00 - 2020-05-03 18:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:36:00 - 2020-05-03 18:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:38:00 - 2020-05-03 18:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:40:00 - 2020-05-03 18:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:42:00 - 2020-05-03 18:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:44:00 - 2020-05-03 18:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:46:00 - 2020-05-03 18:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:48:00 - 2020-05-03 18:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:50:00 - 2020-05-03 18:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:52:00 - 2020-05-03 18:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:54:00 - 2020-05-03 18:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 18:56:00 - 2020-05-03 18:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:00:00 - 2020-05-03 19:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1478.0        1478        1478         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            83.5           6         161        77.5           2
+login#init                                              12.5           1          24        11.5           2
+login#inject                                            29.5           0          59        29.5           2
+login#load                                             405.5          40         771       365.5           2
+login#uiPermissions                                      0.5           0           1         0.5           2
+login#xml                                                6.5           0          13         6.5           2
+lookupWindowActions#create                            3344.0        3344        3344         0.0           1
+lookupWindowActions#inject                            1220.0        1220        1220         0.0           1
+lookupWindowActions#load                              1588.0        1588        1588         0.0           1
+lookupWindowActions#xml                                 15.5           8          23         7.5           2
+main#afterShow                                          15.0          15          15         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             31.0          31          31         0.0           1
+main#init                                               27.0          27          27         0.0           1
+main#inject                                             15.0          15          15         0.0           1
+main#load                                              398.0         398         398         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+report$Report.run#beforeShow                           172.0         172         172         0.0           1
+report$Report.run#create                              3402.0        3402        3402         0.0           1
+report$Report.run#init                                4328.0        4328        4328         0.0           1
+report$Report.run#inject                              3971.0        3971        3971         0.0           1
+report$Report.run#load                               17048.0       17048       17048         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                   33.0          11          55        22.0           2
+report$Report.run.lookupWindowActions#init               1.0           1           1         0.0           1
+report$Report.run@reportGroupsDs                      5212.0        5212        5212         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      174.0         174         174         0.0           1
+teststp_Debitor.browse#create                           28.0          28          28         0.0           1
+teststp_Debitor.browse#init                              7.0           7           7         0.0           1
+teststp_Debitor.browse#inject                            7.0           7           7         0.0           1
+teststp_Debitor.browse#load                            946.0         946         946         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-03 19:02:00 - 2020-05-03 19:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$inputParameters#create                         2031.0        2031        2031         0.0           1
+report$inputParameters#init                              3.0           3           3         0.0           1
+report$inputParameters#inject                         2691.0        2691        2691         0.0           1
+report$inputParameters#load                           8664.0        8664        8664         0.0           1
+report$inputParameters#xml                              23.5           9          38        14.5           2
+report$inputParameters.inputParametersFrame#init     12277.0       12277       12277         0.0           1
+report$inputParameters.inputParametersFrame#inject      1711.0        1711        1711         0.0           1
+report$inputParameters.inputParametersFrame#load       134.0         134         134         0.0           1
+report$inputParametersFrame#create                    6963.0        6963        6963         0.0           1
+report$inputParametersFrame#xml                         21.5           9          34        12.5           2
+
+Performance Statistics   2020-05-03 19:04:00 - 2020-05-03 19:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+commonLookup#afterShow                                   0.0           0           0         0.0           2
+commonLookup#beforeShow                                  1.0           1           1         0.0           2
+commonLookup#create                                      6.5           6           7         0.5           2
+commonLookup#init                                      142.5         120         165        22.5           2
+commonLookup#inject                                     12.0           0          24        12.0           2
+commonLookup#load                                        2.5           2           3         0.5           2
+commonLookup#uiPermissions                               0.0           0           0         0.0           2
+commonLookup#xml                                         1.5           0           4         1.7           4
+commonLookup.lookupWindowActions#init                    0.0           0           0         0.0           2
+commonLookup@entitiesDs                                 22.0          20          24         2.0           2
+lookupWindowActions#create                               6.0           6           6         0.0           2
+lookupWindowActions#inject                               0.0           0           0         0.0           2
+lookupWindowActions#load                                 6.0           6           6         0.0           2
+lookupWindowActions#xml                                  0.0           0           0         0.0           4
+report$inputParameters#afterShow                         5.0           5           5         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs       330.0         330         330         0.0           1
+
+Performance Statistics   2020-05-03 19:06:00 - 2020-05-03 19:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:08:00 - 2020-05-03 19:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:10:00 - 2020-05-03 19:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:12:00 - 2020-05-03 19:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:14:00 - 2020-05-03 19:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:16:00 - 2020-05-03 19:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:18:00 - 2020-05-03 19:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:20:00 - 2020-05-03 19:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+commonLookup#afterShow                                   0.0           0           0         0.0           1
+commonLookup#beforeShow                                  1.0           1           1         0.0           1
+commonLookup#create                                      7.0           7           7         0.0           1
+commonLookup#init                                       88.0          88          88         0.0           1
+commonLookup#inject                                      0.0           0           0         0.0           1
+commonLookup#load                                        3.0           3           3         0.0           1
+commonLookup#uiPermissions                               0.0           0           0         0.0           1
+commonLookup#xml                                         1.0           0           2         1.0           2
+commonLookup.lookupWindowActions#init                    0.0           0           0         0.0           1
+commonLookup@entitiesDs                                 14.0          14          14         0.0           1
+lookupWindowActions#create                               7.0           7           7         0.0           2
+lookupWindowActions#inject                               0.0           0           0         0.0           2
+lookupWindowActions#load                                 6.0           6           6         0.0           2
+lookupWindowActions#xml                                  0.0           0           0         0.0           4
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                             1.0           1           1         0.0           1
+report$Report.run#create                                 6.0           6           6         0.0           1
+report$Report.run#init                                  76.0          76          76         0.0           1
+report$Report.run#inject                                 0.0           0           0         0.0           1
+report$Report.run#load                                  41.0          41          41         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    3.5           0           7         3.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                        13.0          13          13         0.0           1
+report$inputParameters#afterShow                         0.0           0           0         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                            7.0           7           7         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                            0.0           0           0         0.0           1
+report$inputParameters#load                             36.0          36          36         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               1.5           0           3         1.5           2
+report$inputParameters.inputParametersFrame#init        77.0          77          77         0.0           1
+report$inputParameters.inputParametersFrame#inject         0.0           0           0         0.0           1
+report$inputParameters.inputParametersFrame#load         1.0           1           1         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        14.0          14          14         0.0           1
+report$inputParametersFrame#create                      26.0          26          26         0.0           1
+report$inputParametersFrame#xml                          0.0           0           0         0.0           2
+
+Performance Statistics   2020-05-03 19:22:00 - 2020-05-03 19:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:24:00 - 2020-05-03 19:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:28:00 - 2020-05-03 19:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:30:00 - 2020-05-03 19:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:32:00 - 2020-05-03 19:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:34:00 - 2020-05-03 19:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:36:00 - 2020-05-03 19:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:38:00 - 2020-05-03 19:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:40:00 - 2020-05-03 19:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:42:00 - 2020-05-03 19:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:44:00 - 2020-05-03 19:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:46:00 - 2020-05-03 19:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:48:00 - 2020-05-03 19:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:50:00 - 2020-05-03 19:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:52:00 - 2020-05-03 19:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:54:00 - 2020-05-03 19:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:56:00 - 2020-05-03 19:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 19:58:00 - 2020-05-03 20:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 20:00:00 - 2020-05-03 20:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 20:02:00 - 2020-05-03 20:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 20:04:00 - 2020-05-03 20:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 20:06:00 - 2020-05-03 20:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 20:08:00 - 2020-05-03 20:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 20:10:00 - 2020-05-03 20:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            89.5           5         174        84.5           2
+login#init                                              13.0           1          25        12.0           2
+login#inject                                            29.5           0          59        29.5           2
+login#load                                             385.5          42         729       343.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.0           0          14         7.0           2
+main#afterShow                                          18.0          18          18         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             27.0          27          27         0.0           1
+main#init                                               26.0          26          26         0.0           1
+main#inject                                              9.0           9           9         0.0           1
+main#load                                              290.0         290         290         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+
+Performance Statistics   2020-05-03 21:20:00 - 2020-05-03 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1555.0        1555        1555         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            94.0           6         182        88.0           2
+login#init                                              15.5           1          30        14.5           2
+login#inject                                            31.0           0          62        31.0           2
+login#load                                             409.5          44         775       365.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.0           0          14         7.0           2
+lookupWindowActions#create                              30.0          30          30         0.0           1
+lookupWindowActions#inject                              14.0          14          14         0.0           1
+lookupWindowActions#load                                13.0          13          13         0.0           1
+lookupWindowActions#xml                                  1.0           0           2         1.0           2
+main#afterShow                                          12.0          12          12         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             32.0          32          32         0.0           1
+main#init                                               30.0          30          30         0.0           1
+main#inject                                             12.0          12          12         0.0           1
+main#load                                              314.0         314         314         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 5.0           5           5         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            15.0          15          15         0.0           1
+report$Report.run#create                                55.0          55          55         0.0           1
+report$Report.run#init                                 587.0         587         587         0.0           1
+report$Report.run#inject                                41.0          41          41         0.0           1
+report$Report.run#load                                 384.0         384         384         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    2.0           0           4         2.0           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       367.0         367         367         0.0           1
+report$inputParameters#afterShow                      2496.0        2496        2496         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                           27.0          27          27         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           19.0          19          19         0.0           1
+report$inputParameters#load                            118.0         118         118         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               4.0           0           8         4.0           2
+report$inputParameters.inputParametersFrame#init      4880.0        4880        4880         0.0           1
+report$inputParameters.inputParametersFrame#inject        13.0          13          13         0.0           1
+report$inputParameters.inputParametersFrame#load         5.0           5           5         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        27.0          27          27         0.0           1
+report$inputParametersFrame#create                      97.0          97          97         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      121.0         121         121         0.0           1
+teststp_Debitor.browse#create                           30.0          30          30         0.0           1
+teststp_Debitor.browse#init                             12.0          12          12         0.0           1
+teststp_Debitor.browse#inject                            5.0           5           5         0.0           1
+teststp_Debitor.browse#load                           1096.0        1096        1096         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                              10.0          10          10         0.0           1
+
+Performance Statistics   2020-05-03 22:10:00 - 2020-05-03 22:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            79.0           5         153        74.0           2
+login#init                                              14.0           1          27        13.0           2
+login#inject                                            27.5           0          55        27.5           2
+login#load                                             395.0          43         747       352.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                8.5           0          17         8.5           2
+
+Performance Statistics   2020-05-03 22:12:00 - 2020-05-03 22:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 22:14:00 - 2020-05-03 22:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1619.0        1619        1619         0.0           1
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             27.0          27          27         0.0           1
+main#init                                               97.0          97          97         0.0           1
+main#inject                                             15.0          15          15         0.0           1
+main#load                                              351.0         351         351         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      115.0         115         115         0.0           1
+teststp_Debitor.browse#create                           23.0          23          23         0.0           1
+teststp_Debitor.browse#init                              8.0           8           8         0.0           1
+teststp_Debitor.browse#inject                            3.0           3           3         0.0           1
+teststp_Debitor.browse#load                           1158.0        1158        1158         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-03 22:16:00 - 2020-05-03 22:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+lookupWindowActions#create                              29.0          29          29         0.0           1
+lookupWindowActions#inject                              11.0          11          11         0.0           1
+lookupWindowActions#load                                12.0          12          12         0.0           1
+lookupWindowActions#xml                                  1.0           0           2         1.0           2
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            11.0          11          11         0.0           1
+report$Report.run#create                                69.0          69          69         0.0           1
+report$Report.run#init                                 676.0         676         676         0.0           1
+report$Report.run#inject                                54.0          54          54         0.0           1
+report$Report.run#load                                 396.0         396         396         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    1.5           0           3         1.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       356.0         356         356         0.0           1
+
+Performance Statistics   2020-05-03 22:18:00 - 2020-05-03 22:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 22:20:00 - 2020-05-03 22:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$inputParameters#create                           26.0          26          26         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           14.0          14          14         0.0           1
+report$inputParameters#load                            120.0         120         120         0.0           1
+report$inputParameters#xml                               3.0           0           6         3.0           2
+report$inputParameters.inputParametersFrame#inject        10.0          10          10         0.0           1
+report$inputParameters.inputParametersFrame#load         4.0           4           4         0.0           1
+report$inputParametersFrame#create                     101.0         101         101         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+
+Performance Statistics   2020-05-03 22:22:00 - 2020-05-03 22:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$inputParameters#afterShow                      8323.0        8323        8323         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters.inputParametersFrame#init    203371.0      203371      203371         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        20.0          20          20         0.0           1
+
+Performance Statistics   2020-05-03 22:24:00 - 2020-05-03 22:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$Report.run#create                                19.0          19          19         0.0           1
+report$Report.run#inject                                 1.0           1           1         0.0           1
+report$Report.run#load                                  50.0          50          50         0.0           1
+report$Report.run#xml                                    5.5           0          11         5.5           2
+
+Performance Statistics   2020-05-03 22:26:00 - 2020-05-03 22:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+lookupWindowActions#create                               6.0           6           6         0.0           1
+lookupWindowActions#inject                               0.0           0           0         0.0           1
+lookupWindowActions#load                                 9.0           9           9         0.0           1
+lookupWindowActions#xml                                  2.0           2           2         0.0           2
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                             2.0           2           2         0.0           1
+report$Report.run#init                              143684.0      143684      143684         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                        20.0          20          20         0.0           1
+
+Performance Statistics   2020-05-03 22:28:00 - 2020-05-03 22:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 22:30:00 - 2020-05-03 22:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$inputParameters#afterShow                      1251.0        1251        1251         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                           12.0          12          12         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                            0.0           0           0         0.0           1
+report$inputParameters#load                             99.0          99          99         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                              22.0           0          44        22.0           2
+report$inputParameters.inputParametersFrame#init      2083.0        2083        2083         0.0           1
+report$inputParameters.inputParametersFrame#inject         0.0           0           0         0.0           1
+report$inputParameters.inputParametersFrame#load         1.0           1           1         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        15.0          15          15         0.0           1
+report$inputParametersFrame#create                      88.0          88          88         0.0           1
+report$inputParametersFrame#xml                          0.0           0           0         0.0           2
+
+Performance Statistics   2020-05-03 22:34:00 - 2020-05-03 22:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 22:40:00 - 2020-05-03 22:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            99.5          50         149        49.5           2
+login#init                                              12.5           0          25        12.5           2
+login#inject                                            28.5           0          57        28.5           2
+login#load                                             427.0          98         756       329.0           2
+login#uiPermissions                                      0.5           0           1         0.5           2
+login#xml                                                6.0           0          12         6.0           2
+main#afterShow                                          13.0          13          13         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             25.0          25          25         0.0           1
+main#init                                               24.0          24          24         0.0           1
+main#inject                                             12.0          12          12         0.0           1
+main#load                                              274.0         274         274         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+teststp_Debitor.browse#create                           24.0          24          24         0.0           1
+teststp_Debitor.browse#init                             10.0          10          10         0.0           1
+teststp_Debitor.browse#inject                            7.0           7           7         0.0           1
+teststp_Debitor.browse#load                           1161.0        1161        1161         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-03 22:42:00 - 2020-05-03 22:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1658.0        1658        1658         0.0           1
+lookupWindowActions#create                              28.0          28          28         0.0           1
+lookupWindowActions#inject                              14.0          14          14         0.0           1
+lookupWindowActions#load                                12.0          12          12         0.0           1
+lookupWindowActions#xml                                  4.5           0           9         4.5           2
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            15.0          15          15         0.0           1
+report$Report.run#create                                71.0          71          71         0.0           1
+report$Report.run#init                                2313.0        2313        2313         0.0           1
+report$Report.run#inject                                50.0          50          50         0.0           1
+report$Report.run#load                                 402.0         402         402         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    3.5           0           7         3.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       414.0         414         414         0.0           1
+report$inputParameters#afterShow                      3769.0        3769        3769         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                           23.0          23          23         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           20.0          20          20         0.0           1
+report$inputParameters#load                            123.0         123         123         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               3.5           0           7         3.5           2
+report$inputParameters.inputParametersFrame#init      6668.0        6668        6668         0.0           1
+report$inputParameters.inputParametersFrame#inject        12.0          12          12         0.0           1
+report$inputParameters.inputParametersFrame#load         5.0           5           5         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        27.0          27          27         0.0           1
+report$inputParametersFrame#create                      98.0          98          98         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      124.0         124         124         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+
+Performance Statistics   2020-05-03 22:52:00 - 2020-05-03 22:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1589.0        1589        1589         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                           120.0           5         235       115.0           2
+login#init                                              15.5           1          30        14.5           2
+login#inject                                            26.5           0          53        26.5           2
+login#load                                             455.5         159         752       296.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                9.0           0          18         9.0           2
+lookupWindowActions#create                              32.0          32          32         0.0           1
+lookupWindowActions#inject                               9.0           9           9         0.0           1
+lookupWindowActions#load                                 9.0           9           9         0.0           1
+lookupWindowActions#xml                                  1.0           0           2         1.0           2
+main#afterShow                                          15.0          15          15         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             27.0          27          27         0.0           1
+main#init                                               36.0          36          36         0.0           1
+main#inject                                             13.0          13          13         0.0           1
+main#load                                              315.0         315         315         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 5.0           5           5         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            13.0          13          13         0.0           1
+report$Report.run#create                                54.0          54          54         0.0           1
+report$Report.run#init                                5764.0        5764        5764         0.0           1
+report$Report.run#inject                                42.0          42          42         0.0           1
+report$Report.run#load                                 323.0         323         323         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    2.0           0           4         2.0           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       346.0         346         346         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       96.0          96          96         0.0           1
+teststp_Debitor.browse#create                           28.0          28          28         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            3.0           3           3         0.0           1
+teststp_Debitor.browse#load                           1158.0        1158        1158         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-03 22:54:00 - 2020-05-03 22:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$inputParameters#afterShow                      5269.0        5269        5269         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                           58.0          58          58         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           14.0          14          14         0.0           1
+report$inputParameters#load                            113.0         113         113         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               6.5           0          13         6.5           2
+report$inputParameters.inputParametersFrame#init     31465.0       31465       31465         0.0           1
+report$inputParameters.inputParametersFrame#inject         8.0           8           8         0.0           1
+report$inputParameters.inputParametersFrame#load         4.0           4           4         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        27.0          27          27         0.0           1
+report$inputParametersFrame#create                      94.0          94          94         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+
+Performance Statistics   2020-05-03 23:46:00 - 2020-05-03 23:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1246.0        1246        1246         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            79.5           5         154        74.5           2
+login#init                                              12.0           1          23        11.0           2
+login#inject                                            30.5           0          61        30.5           2
+login#load                                             402.5          42         763       360.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                5.5           0          11         5.5           2
+lookupWindowActions#create                              27.0          27          27         0.0           1
+lookupWindowActions#inject                              15.0          15          15         0.0           1
+lookupWindowActions#load                                12.0          12          12         0.0           1
+lookupWindowActions#xml                                  1.5           0           3         1.5           2
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             29.0          29          29         0.0           1
+main#init                                               28.0          28          28         0.0           1
+main#inject                                             10.0          10          10         0.0           1
+main#load                                              374.0         374         374         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            20.0          20          20         0.0           1
+report$Report.run#create                                41.0          41          41         0.0           1
+report$Report.run#init                                 561.0         561         561         0.0           1
+report$Report.run#inject                                40.0          40          40         0.0           1
+report$Report.run#load                                 246.0         246         246         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    2.5           0           5         2.5           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       389.0         389         389         0.0           1
+report$inputParameters#afterShow                         0.0           0           0         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                            7.0           7           7         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                          145.0         145         145         0.0           1
+report$inputParameters#load                             58.0          58          58         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                               1.0           0           2         1.0           2
+report$inputParameters.inputParametersFrame#init       242.0         242         242         0.0           1
+report$inputParameters.inputParametersFrame#inject        14.0          14          14         0.0           1
+report$inputParameters.inputParametersFrame#load         5.0           5           5         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        38.0          38          38         0.0           1
+report$inputParametersFrame#create                      38.0          38          38         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       75.0          75          75         0.0           1
+teststp_Debitor.browse#create                           30.0          30          30         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            2.0           2           2         0.0           1
+teststp_Debitor.browse#load                            959.0         959         959         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-03 23:50:00 - 2020-05-03 23:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1435.0        1435        1435         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            81.5           5         158        76.5           2
+login#init                                              22.0           0          44        22.0           2
+login#inject                                            28.5           0          57        28.5           2
+login#load                                             368.0          39         697       329.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.0           0          14         7.0           2
+lookupWindowActions#create                              24.0          24          24         0.0           1
+lookupWindowActions#inject                              11.0          11          11         0.0           1
+lookupWindowActions#load                                 9.0           9           9         0.0           1
+lookupWindowActions#xml                                  2.0           0           4         2.0           2
+main#afterShow                                          11.0          11          11         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             28.0          28          28         0.0           1
+main#init                                               27.0          27          27         0.0           1
+main#inject                                             25.0          25          25         0.0           1
+main#load                                              315.0         315         315         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 6.0           6           6         0.0           1
+report$Report.run#afterShow                              0.0           0           0         0.0           1
+report$Report.run#beforeShow                            15.0          15          15         0.0           1
+report$Report.run#create                               201.0         201         201         0.0           1
+report$Report.run#init                                4422.0        4422        4422         0.0           1
+report$Report.run#inject                                48.0          48          48         0.0           1
+report$Report.run#load                                 240.0         240         240         0.0           1
+report$Report.run#uiPermissions                          0.0           0           0         0.0           1
+report$Report.run#xml                                    2.0           0           4         2.0           2
+report$Report.run.lookupWindowActions#init               0.0           0           0         0.0           1
+report$Report.run@reportGroupsDs                       313.0         313         313         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       95.0          95          95         0.0           1
+teststp_Debitor.browse#create                           23.0          23          23         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            6.0           6           6         0.0           1
+teststp_Debitor.browse#load                           1054.0        1054        1054         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-03 23:52:00 - 2020-05-03 23:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+report$inputParameters#afterShow                      2657.0        2657        2657         0.0           1
+report$inputParameters#beforeShow                        0.0           0           0         0.0           1
+report$inputParameters#create                          209.0         209         209         0.0           1
+report$inputParameters#init                              0.0           0           0         0.0           1
+report$inputParameters#inject                           14.0          14          14         0.0           1
+report$inputParameters#load                            322.0         322         322         0.0           1
+report$inputParameters#uiPermissions                     0.0           0           0         0.0           1
+report$inputParameters#xml                              21.0           0          42        21.0           2
+report$inputParameters.inputParametersFrame#init     54925.0       54925       54925         0.0           1
+report$inputParameters.inputParametersFrame#inject         9.0           9           9         0.0           1
+report$inputParameters.inputParametersFrame#load         4.0           4           4         0.0           1
+report$inputParameters.inputParametersFrame@templateReportsDs        23.0          23          23         0.0           1
+report$inputParametersFrame#create                     215.0         215         215         0.0           1
+report$inputParametersFrame#xml                          1.0           0           2         1.0           2
+
+Performance Statistics   2020-05-03 23:54:00 - 2020-05-03 23:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-03 23:56:00 - 2020-05-03 23:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

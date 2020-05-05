@@ -1,0 +1,421 @@
+/*C2*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C3*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C4*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C5*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C6*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C8*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C9*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C7*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C10*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C11*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C12*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C13*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C14*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C15*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C16*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C17*/SET SCHEMA PUBLIC
+alter table TESTSTP_TEMPLATE rename to TESTSTP_TEMPLATE__U12075 
+INSERT INTO SYS_DB_CHANGELOG VALUES('50-teststp/update/hsql/20/200505-0-dropTemplate.sql','2020-05-05 14:56:14.063000',0)
+COMMIT
+drop table TESTSTP_TEMPLATE__U12075 if exists cascade 
+INSERT INTO SYS_DB_CHANGELOG VALUES('50-teststp/update/hsql/20/200505-0-dropTemplate_DropScript.sql','2020-05-05 14:56:14.071000',0)
+COMMIT
+DISCONNECT
+/*C18*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C19*/SET SCHEMA PUBLIC
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 14:57:09.158000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 14:58:09.154000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 14:59:15.732000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:00:16.250000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:01:16.251000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:02:16.251000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+/*C28*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C26*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C23*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C21*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C25*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C22*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C19*/DISCONNECT
+/*C24*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C20*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C27*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C29*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C30*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C31*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C32*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C34*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C33*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C35*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C36*/SET SCHEMA PUBLIC
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:47:37.540000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:48:37.538000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:49:37.539000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:50:37.539000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:51:37.539000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:52:37.540000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:53:37.539000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:54:37.540000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:55:37.541000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:56:37.541000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:57:37.542000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:58:37.542000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 15:59:37.543000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:00:37.543000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:01:37.544000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:02:37.544000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:03:37.544000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:04:37.544000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:05:37.544000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:06:37.545000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:07:37.545000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:08:37.545000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+/*C45*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C42*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C40*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C36*/DISCONNECT
+/*C39*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C38*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C43*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C44*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C37*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C41*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C46*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C47*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C48*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C49*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C51*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C50*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C52*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C53*/SET SCHEMA PUBLIC
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:10:20.268000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+INSERT INTO SEC_USER_SETTING VALUES('b02f8936-a618-47f5-c077-685e37f3d989','2020-05-05 16:10:31.567000','admin','60885987-1b61-4247-94c7-dff348347f93','W','appWindowTheme','hover')
+COMMIT
+INSERT INTO SEC_USER_SETTING VALUES('3f30748c-5b32-ff7d-3117-e9ae01070f77','2020-05-05 16:10:31.603000','admin','60885987-1b61-4247-94c7-dff348347f93','W','appWindowMode','SINGLE')
+COMMIT
+DELETE FROM SEC_USER WHERE ID='60885987-1b61-4247-94c7-dff348347f93'
+INSERT INTO SEC_USER VALUES('60885987-1b61-4247-94c7-dff348347f93','2020-05-01 18:36:28.508000',NULL,1,'2020-05-05 16:10:31.627000','admin',NULL,NULL,NULL,'admin','admin','$2a$10$vQx8b8B7jzZ0rQmtuK4YDOKp7nkmUCFjPx6DMT.voPtetNHFOsaOu','bcrypt','Administrator',NULL,NULL,NULL,NULL,NULL,NULL,NULL,FALSE,TRUE,'0fa2b1a5-1d68-4d69-9fbd-dff348347f93',NULL,NULL,NULL)
+COMMIT
+INSERT INTO SEC_USER_SETTING VALUES('73c1a13c-9345-1213-7791-65877dc9b119','2020-05-05 16:10:31.658000','admin','60885987-1b61-4247-94c7-dff348347f93','W','userDefaultScreen','teststp_Debitor.browse')
+COMMIT
+/*C60*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C62*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C61*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C58*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C59*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C57*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C55*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C56*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C53*/DISCONNECT
+/*C54*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C63*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C64*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C65*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C66*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C68*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C67*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C69*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C70*/SET SCHEMA PUBLIC
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:23:03.084000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:24:03.080000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM TESTSTP_DEBITOR WHERE ID='7dc23591-9fd4-baeb-5978-d5d00a17a24e'
+INSERT INTO TESTSTP_DEBITOR VALUES('7dc23591-9fd4-baeb-5978-d5d00a17a24e',3,'2020-05-01 19:36:52.222000','admin','2020-05-05 16:24:37.538000','admin',NULL,NULL,'4eburashka','42','-',1456789098.00,'911','2020-05-01 20:23:56.389000','-','\u0410\u043b\u044c\u0444\u0430 \u0426\u0435\u043d\u0442\u0430\u0432\u0440\u0430','-')
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:25:03.081000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+/*C79*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C75*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C76*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C71*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C77*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C72*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C78*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C74*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C70*/DISCONNECT
+/*C73*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C80*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C81*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C82*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C83*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C85*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C84*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C86*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C87*/SET SCHEMA PUBLIC
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:26:58.773000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM REPORT_REPORT WHERE ID='2ae19a48-87c5-5623-7db0-2cf33d5c05a7'
+INSERT INTO REPORT_REPORT VALUES('2ae19a48-87c5-5623-7db0-2cf33d5c05a7','2020-05-02 16:05:36.353000','admin',23,'2020-05-05 16:27:57.758000','admin',NULL,NULL,'\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u043f\u043e\u043b\u043d\u044b\u0439','1',NULL,NULL,'4e083530-0b9c-11e1-9b41-6bdaa41bff94',10,NULL,'{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7","code":"1","roles":[],"defaultTemplate":{"metaClass":"report$ReportTemplate","id":"d88f0c5a-4288-3afe-1e34-e45c30b0c407","code":"DEFAULT","customDefinedBy":"100","custom":"false","version":"4","outputNamePattern":"Debitors_full_report.doc","reportOutputType":"10","groovy":"false","customDefinition":"","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"name":"template_full.doc","alterable":"false"},"bands":[{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f","orientation":"","childrenBandDefinitions":[{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab","orientation":"0","childrenBandDefinitions":[],"name":"Debitor","parentBandDefinition":{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f"},"report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"dataSets":[{"metaClass":"report$DataSet","id":"ce4d950e-a13d-b0ab-c873-581a1beccf09","type":"50","jsonSourceType":"10","name":"debitorsDc","listEntitiesParamName":"entities","useExistingView":"false","bandDefinition":{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"},"text":"return [[:]]","view":"{\"entityClass\":\"teststp_Debitor\",\"name\":\"\",\"properties\":{\"firstname\":{\"name\":\"firstname\",\"fetchMode\":\"AUTO\"},\"lastname\":{\"name\":\"lastname\",\"fetchMode\":\"AUTO\"},\"debt_sum\":{\"name\":\"debt_sum\",\"fetchMode\":\"AUTO\"},\"debt_repayment_date\":{\"name\":\"debt_repayment_date\",\"fetchMode\":\"AUTO\"},\"email\":{\"name\":\"email\",\"fetchMode\":\"AUTO\"},\"phone\":{\"name\":\"phone\",\"fetchMode\":\"AUTO\"},\"address\":{\"name\":\"address\",\"fetchMode\":\"AUTO\"},\"passport_number\":{\"name\":\"passport_number\",\"fetchMode\":\"AUTO\"},\"passport_series\":{\"name\":\"passport_series\",\"fetchMode\":\"AUTO\"}},\"loadPartialEntities\":false}"}],"position":"0"}],"name":"Root","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"dataSets":[],"position":"0"},{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"}],"inputParameters":[{"metaClass":"report$ReportInputParameter","id":"bb5b08b3-a5ab-4556-2c8b-8ea8f49c7915","lookup":"false","entityMetaClass":"teststp_Debitor","predefinedTransformation":"","type":"60","required":"true","validationOn":"false","defaultDateIsCurrent":"false","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"name":"Debitor","alias":"entities","position":"1"}],"validationOn":"false","reportType":"10","reportScreens":[{"metaClass":"report$ReportScreen","id":"69df69d9-cc88-aad9-1515-2267e954f980","screenId":"teststp_Debitor.browse","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"}}],"screensIdx":",teststp_Debitor.browse,","group":{"metaClass":"report$ReportGroup","id":"4e083530-0b9c-11e1-9b41-6bdaa41bff94","localeNames":"en\u005cu003dGeneral\nru\u005cu003d\u041e\u0431\u0449\u0438\u0435","code":"ReportGroup.default","title":"General","version":"0"},"inputEntityTypesIdx":",teststp_Debitor,","valuesFormats":[{"metaClass":"report$ReportValueFormat","id":"150fb246-696c-6ae6-5df5-7a58b0cfe32b","formatString":"dd/MM/yyyy HH:mm","valueName":"Debitor.debt_repayment_date","groovyScript":"false","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"}}],"templates":[{"metaClass":"report$ReportTemplate","id":"d88f0c5a-4288-3afe-1e34-e45c30b0c407"}],"version":"22","system":"false","name":"\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u043f\u043e\u043b\u043d\u044b\u0439"}',NULL,',teststp_Debitor.browse,',',teststp_Debitor,',NULL,FALSE,NULL)
+DELETE FROM REPORT_REPORT WHERE ID='2ae19a48-87c5-5623-7db0-2cf33d5c05a7'
+INSERT INTO REPORT_REPORT VALUES('2ae19a48-87c5-5623-7db0-2cf33d5c05a7','2020-05-02 16:05:36.353000','admin',24,'2020-05-05 16:27:57.781000','admin',NULL,NULL,'\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u043f\u043e\u043b\u043d\u044b\u0439','1',NULL,NULL,'4e083530-0b9c-11e1-9b41-6bdaa41bff94',10,'d88f0c5a-4288-3afe-1e34-e45c30b0c407','{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7","code":"1","roles":[],"defaultTemplate":{"metaClass":"report$ReportTemplate","id":"d88f0c5a-4288-3afe-1e34-e45c30b0c407","code":"DEFAULT","customDefinedBy":"100","custom":"false","version":"4","outputNamePattern":"Debitors_full_report.doc","reportOutputType":"10","groovy":"false","customDefinition":"","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"name":"template_full.doc","alterable":"false"},"bands":[{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f","orientation":"","childrenBandDefinitions":[{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab","orientation":"0","childrenBandDefinitions":[],"name":"Debitor","parentBandDefinition":{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f"},"report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"dataSets":[{"metaClass":"report$DataSet","id":"ce4d950e-a13d-b0ab-c873-581a1beccf09","type":"50","jsonSourceType":"10","name":"debitorsDc","listEntitiesParamName":"entities","useExistingView":"false","bandDefinition":{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"},"text":"return [[:]]","view":"{\"entityClass\":\"teststp_Debitor\",\"name\":\"\",\"properties\":{\"firstname\":{\"name\":\"firstname\",\"fetchMode\":\"AUTO\"},\"lastname\":{\"name\":\"lastname\",\"fetchMode\":\"AUTO\"},\"debt_sum\":{\"name\":\"debt_sum\",\"fetchMode\":\"AUTO\"},\"debt_repayment_date\":{\"name\":\"debt_repayment_date\",\"fetchMode\":\"AUTO\"},\"email\":{\"name\":\"email\",\"fetchMode\":\"AUTO\"},\"phone\":{\"name\":\"phone\",\"fetchMode\":\"AUTO\"},\"address\":{\"name\":\"address\",\"fetchMode\":\"AUTO\"},\"passport_number\":{\"name\":\"passport_number\",\"fetchMode\":\"AUTO\"},\"passport_series\":{\"name\":\"passport_series\",\"fetchMode\":\"AUTO\"}},\"loadPartialEntities\":false}"}],"position":"0"}],"name":"Root","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"dataSets":[],"position":"0"},{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"}],"inputParameters":[{"metaClass":"report$ReportInputParameter","id":"bb5b08b3-a5ab-4556-2c8b-8ea8f49c7915","lookup":"false","entityMetaClass":"teststp_Debitor","predefinedTransformation":"","type":"60","required":"true","validationOn":"false","defaultDateIsCurrent":"false","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"},"name":"Debitor","alias":"entities","position":"1"}],"validationOn":"false","reportType":"10","reportScreens":[{"metaClass":"report$ReportScreen","id":"69df69d9-cc88-aad9-1515-2267e954f980","screenId":"teststp_Debitor.browse","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"}}],"screensIdx":",teststp_Debitor.browse,","group":{"metaClass":"report$ReportGroup","id":"4e083530-0b9c-11e1-9b41-6bdaa41bff94","localeNames":"en\u005cu003dGeneral\nru\u005cu003d\u041e\u0431\u0449\u0438\u0435","code":"ReportGroup.default","title":"General","version":"0"},"inputEntityTypesIdx":",teststp_Debitor,","valuesFormats":[{"metaClass":"report$ReportValueFormat","id":"150fb246-696c-6ae6-5df5-7a58b0cfe32b","formatString":"dd/MM/yyyy HH:mm","valueName":"Debitor.debt_repayment_date","groovyScript":"false","report":{"metaClass":"report$Report","id":"2ae19a48-87c5-5623-7db0-2cf33d5c05a7"}}],"templates":[{"metaClass":"report$ReportTemplate","id":"d88f0c5a-4288-3afe-1e34-e45c30b0c407"}],"version":"22","system":"false","name":"\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u043f\u043e\u043b\u043d\u044b\u0439"}',NULL,',teststp_Debitor.browse,',',teststp_Debitor,',NULL,FALSE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:27:58.769000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM REPORT_REPORT WHERE ID='be4602af-d733-5f8c-f0a9-27e6efe4f03d'
+INSERT INTO REPORT_REPORT VALUES('be4602af-d733-5f8c-f0a9-27e6efe4f03d','2020-05-02 18:31:37.223000','admin',15,'2020-05-05 16:28:33.846000','admin',NULL,NULL,'\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u0431\u0430\u0437\u043e\u0432\u044b\u0439','2',NULL,NULL,'4e083530-0b9c-11e1-9b41-6bdaa41bff94',10,NULL,'{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d","code":"2","roles":[],"defaultTemplate":{"metaClass":"report$ReportTemplate","id":"ed4ec21b-9c9a-2504-69f1-217d41329df1","code":"DEFAULT","customDefinedBy":"100","custom":"false","version":"3","outputNamePattern":"Debitors_basic_report.doc","reportOutputType":"10","groovy":"false","customDefinition":"","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"name":"template_basic.doc","alterable":"false"},"bands":[{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f","orientation":"","childrenBandDefinitions":[{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab","orientation":"0","childrenBandDefinitions":[],"name":"Debitor","parentBandDefinition":{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f"},"report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"dataSets":[{"metaClass":"report$DataSet","id":"ce4d950e-a13d-b0ab-c873-581a1beccf09","type":"50","jsonSourceType":"10","viewName":"_local","name":"debitorsDc","listEntitiesParamName":"entities","useExistingView":"false","bandDefinition":{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"},"text":"return [[:]]","view":"{\"entityClass\":\"teststp_Debitor\",\"name\":\"\",\"properties\":{\"firstname\":{\"name\":\"firstname\",\"fetchMode\":\"AUTO\"},\"lastname\":{\"name\":\"lastname\",\"fetchMode\":\"AUTO\"},\"debt_sum\":{\"name\":\"debt_sum\",\"fetchMode\":\"AUTO\"},\"debt_repayment_date\":{\"name\":\"debt_repayment_date\",\"fetchMode\":\"AUTO\"},\"email\":{\"name\":\"email\",\"fetchMode\":\"AUTO\"},\"phone\":{\"name\":\"phone\",\"fetchMode\":\"AUTO\"}},\"loadPartialEntities\":false}"}],"position":"0"}],"name":"Root","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"dataSets":[],"position":"0"},{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"}],"inputParameters":[{"metaClass":"report$ReportInputParameter","id":"bb5b08b3-a5ab-4556-2c8b-8ea8f49c7915","lookup":"false","entityMetaClass":"teststp_Debitor","predefinedTransformation":"","type":"60","required":"true","validationOn":"false","defaultDateIsCurrent":"false","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"name":"Debitor","alias":"entities","position":"1"}],"validationOn":"false","reportType":"10","reportScreens":[{"metaClass":"report$ReportScreen","id":"201fb4a8-cbe5-6239-2f17-eaa08b62a456","screenId":"teststp_Debitor.browse","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"}}],"screensIdx":",teststp_Debitor.browse,","group":{"metaClass":"report$ReportGroup","id":"4e083530-0b9c-11e1-9b41-6bdaa41bff94","localeNames":"en\u005cu003dGeneral\nru\u005cu003d\u041e\u0431\u0449\u0438\u0435","code":"ReportGroup.default","title":"General","version":"0"},"inputEntityTypesIdx":",teststp_Debitor,","valuesFormats":[{"metaClass":"report$ReportValueFormat","id":"150fb246-696c-6ae6-5df5-7a58b0cfe32b","formatString":"dd/MM/yyyy HH:mm","valueName":"Debitor.debt_repayment_date","groovyScript":"false","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"}}],"templates":[{"metaClass":"report$ReportTemplate","id":"ed4ec21b-9c9a-2504-69f1-217d41329df1"}],"version":"14","system":"false","name":"\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u0431\u0430\u0437\u043e\u0432\u044b\u0439"}',NULL,',teststp_Debitor.browse,',',teststp_Debitor,',NULL,FALSE,NULL)
+DELETE FROM REPORT_REPORT WHERE ID='be4602af-d733-5f8c-f0a9-27e6efe4f03d'
+INSERT INTO REPORT_REPORT VALUES('be4602af-d733-5f8c-f0a9-27e6efe4f03d','2020-05-02 18:31:37.223000','admin',16,'2020-05-05 16:28:33.858000','admin',NULL,NULL,'\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u0431\u0430\u0437\u043e\u0432\u044b\u0439','2',NULL,NULL,'4e083530-0b9c-11e1-9b41-6bdaa41bff94',10,'ed4ec21b-9c9a-2504-69f1-217d41329df1','{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d","code":"2","roles":[],"defaultTemplate":{"metaClass":"report$ReportTemplate","id":"ed4ec21b-9c9a-2504-69f1-217d41329df1","code":"DEFAULT","customDefinedBy":"100","custom":"false","version":"3","outputNamePattern":"Debitors_basic_report.doc","reportOutputType":"10","groovy":"false","customDefinition":"","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"name":"template_basic.doc","alterable":"false"},"bands":[{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f","orientation":"","childrenBandDefinitions":[{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab","orientation":"0","childrenBandDefinitions":[],"name":"Debitor","parentBandDefinition":{"metaClass":"report$BandDefinition","id":"e2b2b139-29af-0f2a-bd52-052c0b0d1f1f"},"report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"dataSets":[{"metaClass":"report$DataSet","id":"ce4d950e-a13d-b0ab-c873-581a1beccf09","type":"50","jsonSourceType":"10","viewName":"_local","name":"debitorsDc","listEntitiesParamName":"entities","useExistingView":"false","bandDefinition":{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"},"text":"return [[:]]","view":"{\"entityClass\":\"teststp_Debitor\",\"name\":\"\",\"properties\":{\"firstname\":{\"name\":\"firstname\",\"fetchMode\":\"AUTO\"},\"lastname\":{\"name\":\"lastname\",\"fetchMode\":\"AUTO\"},\"debt_sum\":{\"name\":\"debt_sum\",\"fetchMode\":\"AUTO\"},\"debt_repayment_date\":{\"name\":\"debt_repayment_date\",\"fetchMode\":\"AUTO\"},\"email\":{\"name\":\"email\",\"fetchMode\":\"AUTO\"},\"phone\":{\"name\":\"phone\",\"fetchMode\":\"AUTO\"}},\"loadPartialEntities\":false}"}],"position":"0"}],"name":"Root","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"dataSets":[],"position":"0"},{"metaClass":"report$BandDefinition","id":"13915143-0296-9530-3c1d-e9284e010eab"}],"inputParameters":[{"metaClass":"report$ReportInputParameter","id":"bb5b08b3-a5ab-4556-2c8b-8ea8f49c7915","lookup":"false","entityMetaClass":"teststp_Debitor","predefinedTransformation":"","type":"60","required":"true","validationOn":"false","defaultDateIsCurrent":"false","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"},"name":"Debitor","alias":"entities","position":"1"}],"validationOn":"false","reportType":"10","reportScreens":[{"metaClass":"report$ReportScreen","id":"201fb4a8-cbe5-6239-2f17-eaa08b62a456","screenId":"teststp_Debitor.browse","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"}}],"screensIdx":",teststp_Debitor.browse,","group":{"metaClass":"report$ReportGroup","id":"4e083530-0b9c-11e1-9b41-6bdaa41bff94","localeNames":"en\u005cu003dGeneral\nru\u005cu003d\u041e\u0431\u0449\u0438\u0435","code":"ReportGroup.default","title":"General","version":"0"},"inputEntityTypesIdx":",teststp_Debitor,","valuesFormats":[{"metaClass":"report$ReportValueFormat","id":"150fb246-696c-6ae6-5df5-7a58b0cfe32b","formatString":"dd/MM/yyyy HH:mm","valueName":"Debitor.debt_repayment_date","groovyScript":"false","report":{"metaClass":"report$Report","id":"be4602af-d733-5f8c-f0a9-27e6efe4f03d"}}],"templates":[{"metaClass":"report$ReportTemplate","id":"ed4ec21b-9c9a-2504-69f1-217d41329df1"}],"version":"14","system":"false","name":"\u0414\u043e\u043b\u0436\u043d\u0438\u043a\u0438-\u0431\u0430\u0437\u043e\u0432\u044b\u0439"}',NULL,',teststp_Debitor.browse,',',teststp_Debitor,',NULL,FALSE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:28:58.769000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:29:58.770000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:30:58.769000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:31:58.769000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:32:58.769000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:33:58.769000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:34:01.963000',NULL,'localhost:8080/app-core',FALSE,NULL)
+COMMIT
+/*C95*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C96*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C94*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C93*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C91*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C92*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C87*/DISCONNECT
+/*C88*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C90*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C89*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C97*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C98*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C99*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C100*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C102*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C101*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C103*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C104*/SET SCHEMA PUBLIC
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:35:47.058000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:36:47.053000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:37:47.053000',NULL,'localhost:8080/app-core',TRUE,NULL)
+COMMIT
+DELETE FROM SYS_SERVER WHERE ID='eee17da9-4287-860b-8a81-c26d29bf636c'
+INSERT INTO SYS_SERVER VALUES('eee17da9-4287-860b-8a81-c26d29bf636c','2020-05-01 18:49:22.670000',NULL,'2020-05-05 16:37:50.102000',NULL,'localhost:8080/app-core',FALSE,NULL)
+COMMIT
+/*C110*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C112*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C111*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C109*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C108*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C113*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C107*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C106*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C105*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C104*/DISCONNECT
+/*C114*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C115*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C116*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C117*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C119*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C118*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C120*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C130*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C129*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C128*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C123*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C127*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C126*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C122*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C124*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C121*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C125*/SET SCHEMA PUBLIC
+DISCONNECT

@@ -1,0 +1,497 @@
+Performance Statistics   2020-05-01 19:04:00 - 2020-05-01 19:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            87.0           6         168        81.0           2
+login#init                                              10.0           0          20        10.0           2
+login#inject                                            24.0           0          48        24.0           2
+login#load                                             324.0          40         608       284.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                6.5           0          13         6.5           2
+
+Performance Statistics   2020-05-01 19:06:00 - 2020-05-01 19:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1152.0        1152        1152         0.0           1
+main#afterShow                                          12.0          12          12         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             29.0          29          29         0.0           1
+main#init                                               28.0          28          28         0.0           1
+main#inject                                              8.0           8           8         0.0           1
+main#load                                              372.0         372         372         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 9.0           9           9         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       26.0          26          26         0.0           1
+teststp_Debitor.browse#create                           24.0          24          24         0.0           1
+teststp_Debitor.browse#init                              6.0           6           6         0.0           1
+teststp_Debitor.browse#inject                            8.0           8           8         0.0           1
+teststp_Debitor.browse#load                            920.0         920         920         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               5.0           5           5         0.0           1
+
+Performance Statistics   2020-05-01 19:08:00 - 2020-05-01 19:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:10:00 - 2020-05-01 19:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:12:00 - 2020-05-01 19:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:14:00 - 2020-05-01 19:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:16:00 - 2020-05-01 19:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            89.0           6         172        83.0           2
+login#init                                              12.5           1          24        11.5           2
+login#inject                                            29.5           0          59        29.5           2
+login#load                                             372.0          42         702       330.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.0           0          14         7.0           2
+
+Performance Statistics   2020-05-01 19:18:00 - 2020-05-01 19:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                        939.0         939         939         0.0           1
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             31.0          31          31         0.0           1
+main#init                                               30.0          30          30         0.0           1
+main#inject                                             16.0          16          16         0.0           1
+main#load                                              318.0         318         318         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 9.0           9           9         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       28.0          28          28         0.0           1
+teststp_Debitor.browse#create                           22.0          22          22         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            4.0           4           4         0.0           1
+teststp_Debitor.browse#load                            736.0         736         736         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-01 19:20:00 - 2020-05-01 19:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:22:00 - 2020-05-01 19:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:24:00 - 2020-05-01 19:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:26:00 - 2020-05-01 19:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:28:00 - 2020-05-01 19:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:30:00 - 2020-05-01 19:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+saveFilter#afterShow                                     0.0           0           0         0.0           1
+saveFilter#beforeShow                                    0.0           0           0         0.0           1
+saveFilter#create                                       36.0          36          36         0.0           1
+saveFilter#init                                          3.0           3           3         0.0           1
+saveFilter#inject                                       40.0          40          40         0.0           1
+saveFilter#load                                         29.0          29          29         0.0           1
+saveFilter#uiPermissions                                 0.0           0           0         0.0           1
+saveFilter#xml                                           0.3           0           2         0.7           6
+teststp_Debitor.edit#afterShow                           0.0           0           0         0.0           2
+teststp_Debitor.edit#beforeShow                         10.0           1          19         9.0           2
+teststp_Debitor.edit#create                              6.5           6           7         0.5           2
+teststp_Debitor.edit#init                                1.5           0           3         1.5           2
+teststp_Debitor.edit#inject                              1.5           0           3         1.5           2
+teststp_Debitor.edit#load                              391.5         187         596       204.5           2
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           2
+teststp_Debitor.edit#xml                                 1.5           1           2         0.5           2
+
+Performance Statistics   2020-05-01 19:32:00 - 2020-05-01 19:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+teststp_Debitor.edit#afterShow                           0.0           0           0         0.0           1
+teststp_Debitor.edit#beforeShow                          1.0           1           1         0.0           1
+teststp_Debitor.edit#create                              7.0           7           7         0.0           1
+teststp_Debitor.edit#init                                0.0           0           0         0.0           1
+teststp_Debitor.edit#inject                              0.0           0           0         0.0           1
+teststp_Debitor.edit#load                              164.0         164         164         0.0           1
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           1
+teststp_Debitor.edit#xml                                 0.0           0           0         0.0           1
+
+Performance Statistics   2020-05-01 19:34:00 - 2020-05-01 19:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+teststp_Debitor.edit#afterShow                           0.0           0           0         0.0           1
+teststp_Debitor.edit#beforeShow                          1.0           1           1         0.0           1
+teststp_Debitor.edit#create                              6.0           6           6         0.0           1
+teststp_Debitor.edit#init                                0.0           0           0         0.0           1
+teststp_Debitor.edit#inject                              0.0           0           0         0.0           1
+teststp_Debitor.edit#load                              140.0         140         140         0.0           1
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           1
+teststp_Debitor.edit#xml                                 1.0           1           1         0.0           1
+
+Performance Statistics   2020-05-01 19:36:00 - 2020-05-01 19:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:38:00 - 2020-05-01 19:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:40:00 - 2020-05-01 19:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:42:00 - 2020-05-01 19:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:44:00 - 2020-05-01 19:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:46:00 - 2020-05-01 19:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:48:00 - 2020-05-01 19:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:50:00 - 2020-05-01 19:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:54:00 - 2020-05-01 19:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1152.0        1152        1152         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            71.5           7         136        64.5           2
+login#init                                              14.0           1          27        13.0           2
+login#inject                                            28.0           0          56        28.0           2
+login#load                                             354.0          44         664       310.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.5           0          15         7.5           2
+main#afterShow                                          15.0          15          15         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             35.0          35          35         0.0           1
+main#init                                               22.0          22          22         0.0           1
+main#inject                                             12.0          12          12         0.0           1
+main#load                                              256.0         256         256         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 6.0           6           6         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       84.0          84          84         0.0           1
+teststp_Debitor.browse#create                           34.0          34          34         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            6.0           6           6         0.0           1
+teststp_Debitor.browse#load                            841.0         841         841         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-01 19:56:00 - 2020-05-01 19:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 19:58:00 - 2020-05-01 20:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:00:00 - 2020-05-01 20:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:08:00 - 2020-05-01 20:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                        979.0         979         979         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            87.0           6         168        81.0           2
+login#init                                              12.5           0          25        12.5           2
+login#inject                                            28.0           0          56        28.0           2
+login#load                                             481.0          46         916       435.0           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.5           0          15         7.5           2
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             31.0          31          31         0.0           1
+main#init                                               31.0          31          31         0.0           1
+main#inject                                             12.0          12          12         0.0           1
+main#load                                              263.0         263         263         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 3.0           3           3         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       74.0          74          74         0.0           1
+teststp_Debitor.browse#create                           28.0          28          28         0.0           1
+teststp_Debitor.browse#init                              2.0           2           2         0.0           1
+teststp_Debitor.browse#inject                            3.0           3           3         0.0           1
+teststp_Debitor.browse#load                            694.0         694         694         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-01 20:10:00 - 2020-05-01 20:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:12:00 - 2020-05-01 20:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:14:00 - 2020-05-01 20:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:16:00 - 2020-05-01 20:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:18:00 - 2020-05-01 20:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:20:00 - 2020-05-01 20:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:36:00 - 2020-05-01 20:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:38:00 - 2020-05-01 20:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:40:00 - 2020-05-01 20:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:42:00 - 2020-05-01 20:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 20:52:00 - 2020-05-01 20:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1448.0        1448        1448         0.0           1
+login#afterShow                                          0.0           0           0         0.0           1
+login#beforeShow                                         3.0           3           3         0.0           1
+login#create                                           165.0         165         165         0.0           1
+login#init                                              22.0          22          22         0.0           1
+login#inject                                            54.0          54          54         0.0           1
+login#load                                             832.0         832         832         0.0           1
+login#uiPermissions                                      1.0           1           1         0.0           1
+login#xml                                               14.0          14          14         0.0           1
+main#afterShow                                          14.0          14          14         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             27.0          27          27         0.0           1
+main#init                                               24.0          24          24         0.0           1
+main#inject                                             16.0          16          16         0.0           1
+main#load                                              298.0         298         298         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 4.0           4           4         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      100.0         100         100         0.0           1
+teststp_Debitor.browse#create                           25.0          25          25         0.0           1
+teststp_Debitor.browse#init                              5.0           5           5         0.0           1
+teststp_Debitor.browse#inject                           11.0          11          11         0.0           1
+teststp_Debitor.browse#load                           1104.0        1104        1104         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+teststp_Debitor.edit#afterShow                           0.0           0           0         0.0           1
+teststp_Debitor.edit#beforeShow                         88.0          88          88         0.0           1
+teststp_Debitor.edit#create                              8.0           8           8         0.0           1
+teststp_Debitor.edit#init                                4.0           4           4         0.0           1
+teststp_Debitor.edit#inject                              3.0           3           3         0.0           1
+teststp_Debitor.edit#load                              784.0         784         784         0.0           1
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           1
+teststp_Debitor.edit#xml                                 3.0           3           3         0.0           1
+
+Performance Statistics   2020-05-01 20:56:00 - 2020-05-01 20:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         1.5           0           3         1.5           2
+login#create                                            93.0           8         178        85.0           2
+login#init                                              13.0           1          25        12.0           2
+login#inject                                            33.0           0          66        33.0           2
+login#load                                             395.5          47         744       348.5           2
+login#uiPermissions                                      0.5           0           1         0.5           2
+login#xml                                                8.0           0          16         8.0           2
+main#afterShow                                          13.0          13          13         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             30.0          30          30         0.0           1
+main#init                                               37.0          37          37         0.0           1
+main#inject                                             21.0          21          21         0.0           1
+main#load                                              346.0         346         346         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 5.0           5           5         0.0           1
+teststp_Debitor.browse#create                          143.0         143         143         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            4.0           4           4         0.0           1
+teststp_Debitor.browse#load                           1050.0        1050        1050         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-01 20:58:00 - 2020-05-01 21:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1589.0        1589        1589         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      116.0         116         116         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.edit#afterShow                           0.5           0           1         0.5           2
+teststp_Debitor.edit#beforeShow                         76.0          32         120        44.0           2
+teststp_Debitor.edit#create                              7.0           6           8         1.0           2
+teststp_Debitor.edit#init                                2.0           0           4         2.0           2
+teststp_Debitor.edit#inject                              2.5           0           5         2.5           2
+teststp_Debitor.edit#load                              684.5         357        1012       327.5           2
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           2
+teststp_Debitor.edit#xml                                 1.0           0           2         1.0           2
+
+Performance Statistics   2020-05-01 21:00:00 - 2020-05-01 21:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+teststp_Debitor.edit#afterShow                           0.0           0           0         0.0           1
+teststp_Debitor.edit#beforeShow                         21.0          21          21         0.0           1
+teststp_Debitor.edit#create                              6.0           6           6         0.0           1
+teststp_Debitor.edit#init                                0.0           0           0         0.0           1
+teststp_Debitor.edit#inject                              0.0           0           0         0.0           1
+teststp_Debitor.edit#load                              287.0         287         287         0.0           1
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           1
+teststp_Debitor.edit#xml                                 1.0           1           1         0.0           1
+
+Performance Statistics   2020-05-01 21:02:00 - 2020-05-01 21:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+teststp_Debitor.edit#afterShow                           0.0           0           0         0.0           1
+teststp_Debitor.edit#beforeShow                         21.0          21          21         0.0           1
+teststp_Debitor.edit#create                              6.0           6           6         0.0           1
+teststp_Debitor.edit#init                                0.0           0           0         0.0           1
+teststp_Debitor.edit#inject                              0.0           0           0         0.0           1
+teststp_Debitor.edit#load                              256.0         256         256         0.0           1
+teststp_Debitor.edit#uiPermissions                       0.0           0           0         0.0           1
+teststp_Debitor.edit#xml                                 0.0           0           0         0.0           1
+
+Performance Statistics   2020-05-01 21:04:00 - 2020-05-01 21:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:08:00 - 2020-05-01 21:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:10:00 - 2020-05-01 21:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            85.5           6         165        79.5           2
+login#init                                              12.0           1          23        11.0           2
+login#inject                                            32.0           0          64        32.0           2
+login#load                                             374.5          42         707       332.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                9.0           0          18         9.0           2
+
+Performance Statistics   2020-05-01 21:12:00 - 2020-05-01 21:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1336.0        1336        1336         0.0           1
+main#afterShow                                          18.0          18          18         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             29.0          29          29         0.0           1
+main#init                                               34.0          34          34         0.0           1
+main#inject                                             13.0          13          13         0.0           1
+main#load                                              277.0         277         277         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                12.0          12          12         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                       92.0          92          92         0.0           1
+teststp_Debitor.browse#create                           24.0          24          24         0.0           1
+teststp_Debitor.browse#init                              4.0           4           4         0.0           1
+teststp_Debitor.browse#inject                            4.0           4           4         0.0           1
+teststp_Debitor.browse#load                            989.0         989         989         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-01 21:14:00 - 2020-05-01 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:16:00 - 2020-05-01 21:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:18:00 - 2020-05-01 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.teststp_Debitor.browse                       1352.0        1352        1352         0.0           1
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            74.0           5         143        69.0           2
+login#init                                              12.0           1          23        11.0           2
+login#inject                                            27.5           0          55        27.5           2
+login#load                                             352.5          44         661       308.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                8.5           0          17         8.5           2
+main#afterShow                                          17.0          17          17         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             27.0          27          27         0.0           1
+main#init                                               27.0          27          27         0.0           1
+main#inject                                             15.0          15          15         0.0           1
+main#load                                              317.0         317         317         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 5.0           5           5         0.0           1
+teststp_Debitor.browse#afterShow                         0.0           0           0         0.0           1
+teststp_Debitor.browse#beforeShow                      116.0         116         116         0.0           1
+teststp_Debitor.browse#create                           27.0          27          27         0.0           1
+teststp_Debitor.browse#init                              3.0           3           3         0.0           1
+teststp_Debitor.browse#inject                            5.0           5           5         0.0           1
+teststp_Debitor.browse#load                            964.0         964         964         0.0           1
+teststp_Debitor.browse#uiPermissions                     0.0           0           0         0.0           1
+teststp_Debitor.browse#xml                               7.0           7           7         0.0           1
+
+Performance Statistics   2020-05-01 21:20:00 - 2020-05-01 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:22:00 - 2020-05-01 21:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:24:00 - 2020-05-01 21:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:26:00 - 2020-05-01 21:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:34:00 - 2020-05-01 21:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+login#afterShow                                          0.0           0           0         0.0           2
+login#beforeShow                                         2.0           0           4         2.0           2
+login#create                                            93.0           6         180        87.0           2
+login#init                                              13.0           0          26        13.0           2
+login#inject                                            27.0           0          54        27.0           2
+login#load                                             367.5          42         693       325.5           2
+login#uiPermissions                                      1.0           0           2         1.0           2
+login#xml                                                7.0           0          14         7.0           2
+main#afterShow                                          12.0          12          12         0.0           1
+main#beforeShow                                          0.0           0           0         0.0           1
+main#create                                             39.0          39          39         0.0           1
+main#init                                               20.0          20          20         0.0           1
+main#inject                                             11.0          11          11         0.0           1
+main#load                                              279.0         279         279         0.0           1
+main#uiPermissions                                       0.0           0           0         0.0           1
+main#xml                                                 6.0           6           6         0.0           1
+teststp_Debitor.browse#create                           25.0          25          25         0.0           1
+teststp_Debitor.browse#inject                           22.0          22          22         0.0           1
+teststp_Debitor.browse#load                            708.0         708         708         0.0           1
+teststp_Debitor.browse#xml                               6.0           6           6         0.0           1
+
+Performance Statistics   2020-05-01 21:36:00 - 2020-05-01 21:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:38:00 - 2020-05-01 21:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:40:00 - 2020-05-01 21:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:42:00 - 2020-05-01 21:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:44:00 - 2020-05-01 21:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:46:00 - 2020-05-01 21:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:48:00 - 2020-05-01 21:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:50:00 - 2020-05-01 21:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:52:00 - 2020-05-01 21:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:54:00 - 2020-05-01 21:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:56:00 - 2020-05-01 21:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 21:58:00 - 2020-05-01 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 22:00:00 - 2020-05-01 22:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 22:02:00 - 2020-05-01 22:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-05-01 22:04:00 - 2020-05-01 22:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
