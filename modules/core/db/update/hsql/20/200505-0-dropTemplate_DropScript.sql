@@ -1,0 +1,1 @@
+drop table TESTSTP_TEMPLATE__U12075 if exists cascade ;

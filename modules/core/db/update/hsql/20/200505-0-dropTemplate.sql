@@ -1,0 +1,1 @@
+alter table TESTSTP_TEMPLATE rename to TESTSTP_TEMPLATE__U12075 ;

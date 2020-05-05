@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        xmlns:c="http://schemas.haulmont.com/cuba/screen/jpql_condition.xsd"
+        caption="msg://browseCaption"
+        focusComponent="debitorsTable"
+        messagesPack="com.company.teststp.web.screens.debitor">
+    <data readOnly="true">
+        <collection id="debitorsDc"
+                    class="com.company.teststp.entity.Debitor"
+                    view="_local">
+            <loader id="debitorsDl">
+                <query>
+                    <![CDATA[select e from teststp_Debitor e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="debitorsTable"
+            spacing="true">
+        <filter id="filter"
+                applyTo="debitorsTable"
+                dataLoader="debitorsDl">
+            <properties include=".*"/>
+        </filter>
+        <groupTable id="debitorsTable"
+                    width="100%"
+                    dataContainer="debitorsDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+                <action id="run" type="runReport"/>
+            </actions>
+            <columns>
+                <column id="firstname"/>
+                <column id="lastname"/>
+                <column id="email"/>
+                <column id="debt_sum"/>
+                <column id="phone"/>
+                <column id="debt_repayment_date"/>
+                <column id="address"/>
+                <column id="passport_number"/>
+                <column id="passport_series"/>
+            </columns>
+            <rowsCount/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="debitorsTable.create"/>
+                <button id="editBtn" action="debitorsTable.edit"/>
+                <button id="removeBtn" action="debitorsTable.remove"/>
+                <button id="runReportBtn"
+                        caption="msg://createButtonCaption"
+                        icon="FILE_WORD_O"
+                        action="debitorsTable.run"/>
+            </buttonsPanel>
+        </groupTable>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>
